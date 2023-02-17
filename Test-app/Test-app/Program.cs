@@ -12,7 +12,7 @@
         {
             //bla bla
             //bla bla
-            Console.WriteLine();
+            Console.WriteLine("");
         }
     }
 }
